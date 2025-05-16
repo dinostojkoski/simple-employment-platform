@@ -1,0 +1,19 @@
+# Java - Spring Boot
+/interscend/target/
+*.class
+*.jar
+*.war
+*.log
+
+# Node - React
+/interscend-frontend/node_modules/
+npm-debug.log
+
+# OS / IDE
+.DS_Store
+*.iml
+*.idea/
+*.vscode/
+
+# Environment
+.env
